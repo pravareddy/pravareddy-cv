@@ -4,7 +4,7 @@
   <title>Document</title>
  </head>
  <body>
- <table>
+ <table cellspacing="20">
  <tr>
      <td><img src = "circle-cropped.png " height="200" width="200"</td>
      <td><h1>Pravalika Reddy</h1>
@@ -45,8 +45,8 @@
  </tr>
  </table>
  <hr>
- <a href=" ">Hobbies</a>
- <a href=" ">Contact me</a>
+ <a href="Hobbies.html ">Hobbies</a>
+ <a href="Contact.html ">Contact me</a>
   
  </body>
 </html>
